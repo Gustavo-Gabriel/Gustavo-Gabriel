@@ -10,20 +10,16 @@
 ### Talk with me, I am kinda awesome:
 
 <p>
-  <a href="http://linkedin.com/in/leo-viana/">
+  <a href="https://www.linkedin.com/in/gustavo-gabriel-anjos/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-   <a href="mailto:vianaleonardo.es@gmail.com">
+   <a href="mailto:gustavoanjos42@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="http://instagram.com/leokps">
+  <a href="https://www.instagram.com/programadordebugado/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
-
-
-
-
 
