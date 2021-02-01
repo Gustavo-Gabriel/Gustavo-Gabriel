@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello World. I am Gustavo  👋
 
-<!--
-**Gustavo-Gabriel/Gustavo-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Developer, Content Creator, Student and Technology Enthusiast.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Apple Developer Academy.
+- 🌱 I’m currently learning Swift and SwiftUI
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: I wanted to be a writer but at the age of 15 I discovered my vocation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Talk with me, I am kinda awesome:
+
+<p>
+  <a href="http://linkedin.com/in/leo-viana/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+   <a href="mailto:vianaleonardo.es@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="http://instagram.com/leokps">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+</p>
+
+
+
+
+
