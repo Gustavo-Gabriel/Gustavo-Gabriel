@@ -7,7 +7,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I wanted to be a writer but at the age of 15 I discovered my vocation.
 
-### Talk with me, I am kinda awesome:
+### :mailbox_with_mail:  Talk with me, I am kinda awesome:
 
 <p>
   <a href="https://www.linkedin.com/in/gustavo-gabriel-anjos/">
@@ -23,7 +23,11 @@
   </a>
 </p>
 
-###  Tools of trade
+### :technologist: Tools of trade
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
+
+## :bar_chart: My stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Gabriel&count_private=true&hide=issues&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Gabriel&layout=compact)]
