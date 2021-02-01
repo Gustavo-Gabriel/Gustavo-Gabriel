@@ -30,4 +30,4 @@
 
 ## :bar_chart: My stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Gabriel&count_private=true&hide=issues&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Gabriel&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Gabriel&layout=compact)
